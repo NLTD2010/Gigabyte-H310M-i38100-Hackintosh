@@ -4,8 +4,8 @@
 
 | | Version |
 |-|---------|
-| OpenCore | 0.9.3 Mod |
-| macOS | Monterey 13.4.1 |
+| OpenCore | 0.9.3 |
+| macOS | Monterey 12.5 and also Ventura 13.4.1|
 
 
 ## Desktop Specification
