@@ -1,4 +1,4 @@
-# <div align="center">Gigabyte H310M i5-8400 Hackintosh</div> 
+# <div align="center">Gigabyte H310M DS2 i3-8100 Hackintosh</div> 
 
 ## Intro
 
@@ -12,12 +12,12 @@
 
 |                     | Specifications| Note |
 | ---------------------------- | ---------------------- |------------------|
-| ``CPU``| Intel Core i5-8400 2.80GHz |  |
-| ``Memory``| 16GB DDR4-2666MHz |  |
+| ``CPU``| Intel Core i3-8100 |  |
+| ``Memory``| 8GB DDR4 |  |
 | ``iGPU``| Intel UHD Graphics 630 |  |
-| ``Wifi and Bluetooth``| Intel® Dual Band Wireless-AX200 | Use [AirportItlwm](https://github.com/OpenIntelWireless/itlwm/releases) for Wifi and [IntelBluetoothFirmware](https://openintelwireless.github.io/IntelBluetoothFirmware/) for Bluetooth. |
+| ``Bluetooth``| ORICO BTA-508 | Native? with BluetoolFixup|
 | ``Ethernet``| RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Use [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases). |
-| ``Audio``| Realtek ALC887 | Add `alcid=7` to boot-arg or add layout-id to DeviceProperties. |
+| ``Audio``| Realtek ALC887 | Add `alcid=1` to boot-arg or add layout-id to DeviceProperties. |
 
 ## Features
 
