@@ -33,3 +33,5 @@
 | ``Facetime and iMessage``|✅|
 | ``Ethernet``|✅|
 | ``Sleep``|✅|
+## Preview
+![]([http://url/to/img.png](https://raw.githubusercontent.com/NLTD2010/Gigabyte-H310M-i38100-Hackintosh/main/Screen%20Shot%202023-07-17%20at%2015.34.31.png)https://raw.githubusercontent.com/NLTD2010/Gigabyte-H310M-i38100-Hackintosh/main/Screen%20Shot%202023-07-17%20at%2015.34.31.png)
